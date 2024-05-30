@@ -1,0 +1,53 @@
+[{
+  "_id": {
+    "$oid": "6627d2f1e8b8914cfa68670b"
+  },
+  "username": "tom",
+  "email": "tom@tomik.ru",
+  "paswword": "tomTom"
+},
+{
+  "_id": {
+    "$oid": "6639e37bb6521c6ba73029a0"
+  },
+  "username": "Stetxem",
+  "email": "stetxem@stetxem.er",
+  "password": "sdfsdfs",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663a747ae1c6f72659e89937"
+  },
+  "username": "Mstr. Jquery",
+  "email": "jquery.mstr@sd.erw",
+  "password": "adqfqwedwe",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6606b19ef99cd7a67132aaf6"
+  },
+  "username": "aski",
+  "email": "aski@example.com",
+  "password": "$2a$10$LgqW2yoQxJ6nDBaS8nfM3urShNcn0m95wgyES2lqLw2kXicCHyfmC",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6606b3e0ba5b4c3fa4be6dd5"
+  },
+  "username": "Sobaka",
+  "email": "jav@example.com",
+  "password": "$2a$10$g6PgxfOv1p0xVAi1FCckRuolYB5ImwazvVVhNVisaoxDI9NuAE8oi",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66472f192d7cc7488e06a640"
+  },
+  "username": "asds",
+  "email": "asd@asdf.ew",
+  "password": "$2a$10$v30xlGjoL33kCzUKAKPai.wRWZcD8wNVnPY/weVKhmXVpkhLtyzDS",
+  "__v": 0
+}]

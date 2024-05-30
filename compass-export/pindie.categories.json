@@ -1,0 +1,85 @@
+[{
+  "_id": {
+    "$oid": "6627d40be8b8914cfa68670e"
+  },
+  "name": "popular"
+},
+{
+  "_id": {
+    "$oid": "6627d428e8b8914cfa68670f"
+  },
+  "name": "new"
+},
+{
+  "_id": {
+    "$oid": "6627d437e8b8914cfa686710"
+  },
+  "name": "TDS"
+},
+{
+  "_id": {
+    "$oid": "6627d447e8b8914cfa686711"
+  },
+  "name": "shooter"
+},
+{
+  "_id": {
+    "$oid": "6627d45be8b8914cfa686712"
+  },
+  "name": "pixel"
+},
+{
+  "_id": {
+    "$oid": "6627d467e8b8914cfa686713"
+  },
+  "name": "runner"
+},
+{
+  "_id": {
+    "$oid": "663a7497e1c6f72659e8993b"
+  },
+  "name": "headwashers",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fd4ae18dfd769ce313327d"
+  },
+  "name": "popular",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fd4ae88dfd769ce3133282"
+  },
+  "name": "shooter",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fd4eefee6f92e3d791d0d1"
+  },
+  "name": "TDS",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fd4ef6ee6f92e3d791d0d7"
+  },
+  "name": "pixel",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660bc0a61755c9b3a8173553"
+  },
+  "name": "new",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660cee4e0fee465c0a9a03c6"
+  },
+  "name": "runner",
+  "__v": 0
+}]
